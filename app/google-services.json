@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700044554291",
+    "project_id": "wilfred-74fc7",
+    "storage_bucket": "wilfred-74fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700044554291:android:f67270c872883b9c65b346",
+        "android_client_info": {
+          "package_name": "net.riding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAj7bgDpfgXVcb92Xe-MNrIcydrnNcifA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700044554291:android:bfcf960d003fedc665b346",
+        "android_client_info": {
+          "package_name": "net.wilfred"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAj7bgDpfgXVcb92Xe-MNrIcydrnNcifA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

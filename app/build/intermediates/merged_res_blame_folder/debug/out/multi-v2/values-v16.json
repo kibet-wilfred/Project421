@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.ezra.app-mergeDebugResources-70:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kibe\\.gradle\\caches\\transforms-3\\cf92a8ff45648af1e7679636da413e07\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

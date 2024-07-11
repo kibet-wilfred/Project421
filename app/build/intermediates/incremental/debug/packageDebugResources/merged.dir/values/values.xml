@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#0FB06A</color>
+    <color name="teal_200">#9AEDC9</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">about</string>
+    <string name="add_stud">Student Registration</string>
+    <string name="already_have_account">Already have an account?\nClick here to login</string>
+    <string name="apen">Apen Softwares</string>
+    <string name="app_name">Tap n Go</string>
+    <string name="call">Call me 📲</string>
+    <string name="developer">Developed with ❤ by Ezra</string>
+    <string name="dont_have_account">Do not have an account?\nClick here to sign up</string>
+    <string name="email">email</string>
+    <string name="empty"/>
+    <string name="gcm_defaultSenderId" translatable="false">700044554291</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAj7bgDpfgXVcb92Xe-MNrIcydrnNcifA</string>
+    <string name="google_app_id" translatable="false">1:700044554291:android:f67270c872883b9c65b346</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAj7bgDpfgXVcb92Xe-MNrIcydrnNcifA</string>
+    <string name="google_storage_bucket" translatable="false">wilfred-74fc7.appspot.com</string>
+    <string name="home">Home</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="project_id" translatable="false">wilfred-74fc7</string>
+    <string name="save_data">Save Student</string>
+    <string name="select_image">Select Image</string>
+    <string name="signup">signup</string>
+    <string name="welcome_back">Welcome Back</string>
+    <style name="Theme.FirebaseAuth" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryVariant">@color/cardview_light_background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
